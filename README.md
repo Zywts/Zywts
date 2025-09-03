@@ -33,17 +33,11 @@ When I'm not coding, you'll find me playing guitar, gaming, or following the lat
 
 ## 💼 Featured Projects
 
-### 🏠 Real Estate Marketplace
-A comprehensive property marketplace with advanced search, user authentication, and listing management.
-- **Tech:** Django REST API + Vue.js SPA
-- **Features:** Property search & filters, user accounts, responsive design
-- [🔗 Live Demo](#) | [📁 Repository](#)
-
 ### 🌴 Sorsogon Tourism Portal
 Discover the beauty of Sorsogon with this tourism information and trip planning website.
 - **Tech:** Django + Vue.js hybrid architecture
 - **Features:** Interactive maps, itinerary builder, local attractions database
-- [🔗 Live Demo](#) | [📁 Repository](#)
+- [📁 Repository](https://github.com/Zywts/TaraSorsogon)
 
 ## 📈 GitHub Stats
 
@@ -78,8 +72,8 @@ I believe in writing code that not only works but is maintainable, scalable, and
 ## 📫 Let's Connect!
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zywts)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kirby-molina-696922261/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ruzzhelkirbymolina@gmail.com)
 
 ---
 
